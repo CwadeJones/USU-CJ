@@ -1,2 +1,2 @@
-# Computational-Finance-GIT
+# CF-GIT
 Playing with Git for school
