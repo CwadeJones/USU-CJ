@@ -1,0 +1,22 @@
+FIN 5350 Reflection - What did I learn?
+
+The biggest takeaway from my time in FIN 5350 is easy to pinpoint.  The challenge of
+changing my mindset into computational thinking has been an uphill climb and although 
+I have not perfected the method, it has been extrememly beneficial in this and other
+classes.  Thinking more like a computer scienctist has its advantages and being able
+to turn it on and off is a great skill. It has helped me structure my thinking and
+problem solving process.  It has given me more clarity when considering complex
+solutions to complex problems.  Computational thinking has a way of simplifying
+complexities.
+
+I am also impressed with the progress that I have made navigating the class and
+discovering the power contatined within Python, and how to code.  At the beginning of
+the class I had less than zero experience coding and now I am at least at a novice level.
+
+I, Cooper Jones, state that I understand the code presented in the final project, and have
+worked with Team 02, namely Spencer Powell, and Taylor Acevedo.  We have verfied the solutions
+with excel and are pleased with the polished final product we are delivering.
+
+Signed,
+
+Cooper W. Jones
