@@ -1,2 +1,2 @@
-# CF-GIT
-Playing with Git for school
+# CFFA5350
+Computational Finance in Python for TJB
